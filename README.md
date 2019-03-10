@@ -8,8 +8,8 @@ American Football, Boxing, Formula 1. etc.
 
 Features
 
+
 Record live transmissions to your PC
+
+
 Available for Windows
-Open your own transmissions streams (M3U8, RTMP, RTSP, etc)
-handles hundreds of m3u files at once
-Add as many IPTV lists you want
