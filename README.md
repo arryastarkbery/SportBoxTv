@@ -21,3 +21,6 @@ handles hundreds of m3u files at once
 Add as many IPTV lists you want
 
 etc./
+
+
+![alt text](https://a.fsdn.com/con/app/proj/sportboxtv/screenshots/Screenshot_2.jpg/max/max/1)
