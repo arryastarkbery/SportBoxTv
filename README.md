@@ -19,3 +19,5 @@ Open your own transmissions streams (M3U8, RTMP, RTSP, etc)
 handles hundreds of m3u files at once
 
 Add as many IPTV lists you want
+
+etc./
