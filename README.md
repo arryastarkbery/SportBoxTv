@@ -11,6 +11,5 @@ Features
 Record live transmissions to your PC
 Available for Windows
 Open your own transmissions streams (M3U8, RTMP, RTSP, etc)
-Add as many IPTV lists you want
 handles hundreds of m3u files at once
-etc.
+Add as many IPTV lists you want
